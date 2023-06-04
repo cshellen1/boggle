@@ -1,0 +1,13 @@
+
+#game {
+    width: 20rem;
+}
+
+#timer {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 20rem;
+}
